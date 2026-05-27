@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sukuk Access Hub",
+  "description": "A conversion-focused landing page and interactive copy blueprint for a retail Sukuk access and comparison platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
